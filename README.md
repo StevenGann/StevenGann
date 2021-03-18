@@ -2,7 +2,8 @@
 
 
 
-## Public Keys
+<details>
+<summary>Public Keys</summary>
 
 ### RSA 1024-bit:
 ```
@@ -45,3 +46,5 @@ dPcfmgUVL6CBAjgXLX8p4lQDRCRlkx41N/w/KAHGD+HAz/+be/TYHlASw1AzhyJl
 MEDdMyaV6smmaqAdIemDCQIDAQAB
 -----END PUBLIC KEY-----
 ```
+
+</details> 
