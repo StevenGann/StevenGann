@@ -1,6 +1,6 @@
 ### Languages
 
-C89, C99, C++, C#, Python, Assembly (PIC16, 68k, x86)
+Assembly (PIC16, 68k, x86), C (89, 99), C++, C#, Python
 
 ### Hardware
 
