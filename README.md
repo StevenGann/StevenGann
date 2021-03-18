@@ -1,3 +1,29 @@
+### Languages
+
+C89, C99, C++, C#, Python, Assembly (PIC16, 68k, x86)
+
+### Hardware
+
+PIC16, PIC24, AVR, ARM, x86
+
+### Hobbies
+
+Vintage Computing, Emergent Behavior, Worldbuilding, Hardware Customization, Sci-fi, Fantasy
+
+<details>
+<summary>Strong Opinions</summary>
+
+- **Good** _Star Trek_ ended after _Enterprise_
+- _Deep Space 9_ was peak _Star Trek_
+- The Disney Star Wars trilogy wasn't **that** bad
+- _Return of the Jedi_ was worse than _The Last Jedi_
+- C89 was **perfect** except for implicit declaration
+- JavaScript shouldn't be used except in the browser
+- Cryptocurrency is a great technology but an unreliable investment
+- Windows isn't **that** bad
+- Ulfric Stormcloak was wrong
+
+</details> 
 
 <details>
 <summary>Public Keys</summary>
