@@ -1,5 +1,9 @@
-![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/4290363)
 
+<img src="https://img.shields.io/badge/-C89/99-informational?style=flat&logo=c&logoColor=a8b9cc&color=696969" alt="" height="32px" />
+
+<img src="https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2b%2b&logoColor=00599c&color=696969" alt="" height="32px" />
+
+<br/>
 
 <details>
 <summary>Public Keys</summary>
