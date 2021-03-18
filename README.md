@@ -1,5 +1,4 @@
-
-
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/4290363)
 
 
 <details>
