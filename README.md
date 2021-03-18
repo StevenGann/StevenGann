@@ -4,11 +4,11 @@ Assembly (PIC16, 68k, x86), C (89, 99), C++, C#, Python
 
 ### Hardware
 
-PIC16, PIC24, AVR, ARM, x86
+PIC16, PIC24, AVR, ARM, x86, 68k, MSP-430, Z80
 
 ### Hobbies
 
-Vintage Computing, Emergent Behavior, Worldbuilding, Hardware Customization, Sci-fi, Fantasy
+Vintage Computing, Emergent Behavior, Worldbuilding, Hardware Customization, CGI, Sci-fi, Fantasy
 
 <details>
 <summary>Strong Opinions</summary>
