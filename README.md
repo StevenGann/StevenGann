@@ -22,6 +22,7 @@ Vintage Computing, Emergent Behavior, Worldbuilding, Hardware Customization, CGI
 - Cryptocurrency is a great technology but an unreliable investment
 - Windows isn't **that** bad
 - Ulfric Stormcloak was wrong
+- Taco Bell and Little Ceasar's aren't bad for the price
 
 </details> 
 
