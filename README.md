@@ -8,21 +8,39 @@ PIC16, PIC24, AVR, ARM, x86, 68k, MSP-430, Z80
 
 ### Hobbies
 
-Vintage Computing, Emergent Behavior, Worldbuilding, Hardware Customization, CGI, Sci-fi, Fantasy
+Vintage Computing, Lo-fi Audio Synth, Emergent Behavior, Worldbuilding, Hardware Customization, CGI, Sci-fi, Fantasy
 
 <details>
 <summary>Strong Opinions</summary>
 
+
+Also known as Hard Truths.
+
+#### Movies / TV / Books
 - **Good** _Star Trek_ ended after _Enterprise_
 - _Deep Space 9_ was peak _Star Trek_
 - The Disney Star Wars trilogy wasn't **that** bad
 - _Return of the Jedi_ was worse than _The Last Jedi_
+- _Planet of Twilight_ wasn't bad, a fit Hutt is a cool idea
+- The B. Herbert/K.J. Anderson _Dune_ novels aren't that bad, just not as good as Frank Herbert's
+
+#### Programming / Technology
 - C89 was **perfect** except for implicit declaration
 - JavaScript shouldn't be used except in the browser
+- OOP shouldn't be attempted in C, or any language not designed with OOP in mind
 - Cryptocurrency is a great technology but an unreliable investment
 - Windows isn't **that** bad
+
+#### Politics
 - Ulfric Stormcloak was wrong
+- The USA not using metric is Benjamin Franklin's fault
+- The USA saying "soccer" instead of "football" is Britain's fault
+
+#### Food
 - Taco Bell and Little Ceasar's aren't bad for the price
+- Sriracha is excellent on tex-mex dishes
+- American cheese isn't Kraft Singles, the USA has a complex and proud heritage of quality cheeses
+- Orange cheese in America is Britain's fault
 
 </details> 
 
