@@ -22,7 +22,10 @@ Also known as Hard Truths.
 - The Disney Star Wars trilogy wasn't **that** bad
 - _Return of the Jedi_ was worse than _The Last Jedi_
 - _Planet of Twilight_ wasn't bad, a fit Hutt is a cool idea
+- Post-Disney Star Wars Expanded Universe is even better than the Legends EU
 - The B. Herbert/K.J. Anderson _Dune_ novels aren't that bad, just not as good as Frank Herbert's
+- _Goonies_ is not great
+- _The Mandalorian_ proved that shows like _Star Trek: Discovery_ could have captured the source material's vintage feel while still being excellent
 
 #### Programming / Technology
 - C89 was **perfect** except for implicit declaration
@@ -30,17 +33,26 @@ Also known as Hard Truths.
 - OOP shouldn't be attempted in C, or any language not designed with OOP in mind
 - Cryptocurrency is a great technology but an unreliable investment
 - Windows isn't **that** bad
+- Quantum computing has definite practical applications, but will not replace traditional computing for simple calculations and logical operations
+- Modern deep learning AI is not so far removed from simple curve-fitting algorithms and is no more capable of bias, racism, malice, or any other anthropomorphic quality than a spreadsheet
+- We don't necessarily _need_ Linux, AI, or any other high-level technologies in most IoT devices, and adding them where they aren't needed is the source of most of IoT's security, privacy, and power consumption issues
+- If it can't run DOOM then it isn't useful for day-to-day computing
+- True privacy or trustless computing is ultimately impossible in the modern age, and there's nothing you can reasonably do about it except be aware of it
 
-#### Politics
+#### Politics / Philosophy
 - Ulfric Stormcloak was wrong
 - The USA not using metric is Benjamin Franklin's fault
 - The USA saying "soccer" instead of "football" is Britain's fault
+- All the common arguments for Simulation Theory are trite and if applied consistantly could argue for or against any possibility
 
 #### Food
 - Taco Bell and Little Ceasar's aren't bad for the price
 - Sriracha is excellent on tex-mex dishes
 - American cheese isn't Kraft Singles, the USA has a complex and proud heritage of quality cheeses
 - Orange cheese in America is Britain's fault
+- Tapenade is better than caviar in all situations
+- Supermarket "greek yogurt" is just decent yogurt, and real Greek yogurt should be the consistency of neufchatel
+- Discount day-old baked goods are the only logical choice unless you want something specialty or plan to eat the whole thing in a single day
 
 </details> 
 
