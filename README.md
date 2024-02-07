@@ -21,7 +21,7 @@ Also known as Hard Truths.
 - _Deep Space 9_ was peak _Star Trek_
 - The Disney Star Wars trilogy wasn't **that** bad
 - _Return of the Jedi_ was worse than _The Last Jedi_
-- _Planet of Twilight_ wasn't bad, a fit Hutt is a cool idea
+- _Planet of Twilight_ was better than the _Young Jedi Knights_ series
 - Post-Disney Star Wars Expanded Universe is even better than the Legends EU
 - The B. Herbert/K.J. Anderson _Dune_ novels aren't that bad, just not as good as Frank Herbert's
 - _Goonies_ is not great
@@ -32,12 +32,14 @@ Also known as Hard Truths.
 - JavaScript shouldn't be used except in the browser
 - OOP shouldn't be attempted in C, or any language not designed with OOP in mind
 - Cryptocurrency is a great technology but an unreliable investment
-- Windows isn't **that** bad
+- Newer version of Windows have no place in a production environment
+- Modern Linux is easier to install and use than modern Windows
 - Quantum computing has definite practical applications, but will not replace traditional computing for simple calculations and logical operations
 - Modern deep learning AI is not so far removed from simple curve-fitting algorithms and is no more capable of bias, racism, malice, or any other anthropomorphic quality than a spreadsheet
 - We don't necessarily _need_ Linux, AI, or any other high-level technologies in most IoT devices, and adding them where they aren't needed is the source of most of IoT's security, privacy, and power consumption issues
 - If it can't run DOOM then it isn't useful for day-to-day computing
 - True privacy or trustless computing is ultimately impossible in the modern age, and there's nothing you can reasonably do about it except be aware of it
+- Ender 3 remains one of the best choices for someone's first FDM 3D printer, in terms of capability and out-of-box experience
 
 #### Politics / Philosophy
 - Ulfric Stormcloak was wrong
