@@ -1,14 +1,14 @@
 ### Languages
 
-Assembly (PIC16, 68k, x86), C (89, 99), C++, C#, Python
+Assembly (PIC16, 68k, x86, ARM), C (89, 99, XC8), C++ (g++, VC++, CUDA, avrgcc), C#, Python, Rust, GLSL
 
 ### Hardware
 
-PIC16, PIC24, AVR, ARM, x86, 68k, MSP-430, Z80
+PIC16, PIC24, AVR, ARM, x86, 68k, MSP-430, Z80, CUDA, RP2040, ESP-8266
 
 ### Hobbies
 
-Vintage Computing, Lo-fi Audio Synth, Emergent Behavior, Worldbuilding, Hardware Customization, CGI, Sci-fi, Fantasy
+Vintage Computing, Lo-fi Audio Synth, Emergent Behavior, Worldbuilding, Hardware Customization, CGI, Sci-fi, Fantasy, Graphics Programming, Cryptography
 
 <details>
 <summary>Strong Opinions</summary>
