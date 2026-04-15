@@ -1,10 +1,10 @@
 ### Languages
 
-Assembly (PIC16, 68k, x86, ARM), C (89, 99, XC8), C++ (g++, VC++, CUDA, avrgcc), C#, Python, Rust, GLSL
+Assembly (PIC16, 68k, x86, ARM), C (89, 99, XC8), C++ (g++, VC++, CUDA, avrgcc), C#, Python, Rust, GLSL, Mandarin, Klingon
 
 ### Hardware
 
-PIC16, PIC24, AVR, ARM, x86, 68k, MSP-430, Z80, CUDA, RP2040, ESP-8266
+PIC16/24/32, AVR, ARM, x86, 68k, MSP-430, Z80, CUDA, RP2040/2350, ESP-8266/ESP-32
 
 ### Hobbies
 
@@ -17,7 +17,7 @@ Vintage Computing, Lo-fi Audio Synth, Emergent Behavior, Worldbuilding, Hardware
 Also known as Hard Truths.
 
 #### Movies / TV / Books
-- **Good** _Star Trek_ ended after _Enterprise_
+- **Good** _Star Trek_ ended after _Enterprise_, except for _Lower Decks_
 - _Deep Space 9_ was peak _Star Trek_
 - The Disney Star Wars trilogy wasn't **that** bad
 - _Return of the Jedi_ was worse than _The Last Jedi_
@@ -34,25 +34,24 @@ Also known as Hard Truths.
 - Cryptocurrency is a great technology but an unreliable investment
 - Newer version of Windows have no place in a production environment
 - Modern Linux is easier to install and use than modern Windows
-- Quantum computing has definite practical applications, but will not replace traditional computing for simple calculations and logical operations
-- Modern deep learning AI is not so far removed from simple curve-fitting algorithms and is no more capable of bias, racism, malice, or any other anthropomorphic quality than a spreadsheet
+- Quantum computing has definite practical applications, but will not replace traditional computing
 - We don't necessarily _need_ Linux, AI, or any other high-level technologies in most IoT devices, and adding them where they aren't needed is the source of most of IoT's security, privacy, and power consumption issues
 - If it can't run DOOM then it isn't useful for day-to-day computing
 - True privacy or trustless computing is ultimately impossible in the modern age, and there's nothing you can reasonably do about it except be aware of it
-- Ender 3 remains one of the best choices for someone's first FDM 3D printer, in terms of capability and out-of-box experience
 
 #### Politics / Philosophy
 - Ulfric Stormcloak was wrong
 - The USA not using metric is Benjamin Franklin's fault
 - The USA saying "soccer" instead of "football" is Britain's fault
-- All the common arguments for Simulation Theory are trite and if applied consistantly could argue for or against any possibility
+- All the common arguments for Simulation Theory are ambiguous and trite and if applied consistantly could argue for or against any possibility
 
 #### Food
-- Taco Bell and Little Ceasar's aren't bad for the price
+- Little Ceasar's is great bad for the price
 - Sriracha is excellent on tex-mex dishes
 - American cheese isn't Kraft Singles, the USA has a complex and proud heritage of quality cheeses
 - Orange cheese in America is Britain's fault
 - Tapenade is better than caviar in all situations
+- Cabbage is better than lettuce in all situations
 - Supermarket "greek yogurt" is just decent yogurt, and real Greek yogurt should be the consistency of neufchatel
 - Discount day-old baked goods are the only logical choice unless you want something specialty or plan to eat the whole thing in a single day
 
